@@ -1,4 +1,4 @@
-# BrickMMO Console
+# BrickMMO Console Frontend
 
 React and MUI.
 
