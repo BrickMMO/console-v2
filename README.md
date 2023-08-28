@@ -1,6 +1,6 @@
 # BrickMMO Console Frontend
 
-React and MUI.
+This website will store the frontend code for the BrickMMO console. This project will be written in React and MUI.
 
  - https://minimals.cc/dashboard
  - https://mui.com/store/items/minimal-dashboard/
@@ -23,5 +23,3 @@ This project uses [React](https://react.dev/) and [MUI](https://mui.com/).
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
 </a>
-
-   
