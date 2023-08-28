@@ -1,4 +1,4 @@
-# BrickMMO Console Frontend
+# Console Frontend V2
 
 This website will store the frontend code for the BrickMMO console. This project will be written in React and MUI.
 
